@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Begitu Indah",
+  "base_artist": "Padi",
+  "createdAt": "2026-03-01T16:14:20.727041Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Gaby Idol",
+      "has_synced": true,
+      "path": "select/01_Begitu_Indah_Gaby_Idol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Gaby",
+      "has_synced": true,
+      "path": "select/02_Begitu_Indah_Gaby.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Padi",
+      "has_synced": true,
+      "path": "select/03_Begitu_Indah_Padi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Padi",
+      "has_synced": true,
+      "path": "select/04_Begitu_Indah_Padi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Begitu Indah (Album Version)",
+      "artist": "Padi",
+      "has_synced": true,
+      "path": "select/05_Begitu_Indah_(Album_Version)_Padi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "TheOvertunes",
+      "has_synced": true,
+      "path": "select/06_Begitu_Indah_TheOvertunes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "ROFA",
+      "has_synced": false,
+      "path": "select/07_Begitu_Indah_ROFA.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Pance Pondaag",
+      "has_synced": true,
+      "path": "select/08_Begitu_Indah_Pance_Pondaag.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Begitu Indah (From \"generasi 90An Melankolia\")",
+      "artist": "Arah",
+      "has_synced": true,
+      "path": "select/09_Begitu_Indah_(From__generasi_90An_Melankolia_)_Arah.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Begitu Indah (Album Version)",
+      "artist": "Gaby \"Idol\"",
+      "has_synced": true,
+      "path": "select/10_Begitu_Indah_(Album_Version)_Gaby__Idol.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Begitu Indah (Album Version)",
+      "artist": "Padi",
+      "has_synced": true,
+      "path": "select/11_Begitu_Indah_(Album_Version)_Padi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Felix Irwan",
+      "has_synced": true,
+      "path": "select/12_Begitu_Indah_Felix_Irwan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Endang S Taurina",
+      "has_synced": true,
+      "path": "select/13_Begitu_Indah_Endang_S_Taurina.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Padi",
+      "has_synced": true,
+      "path": "select/14_Begitu_Indah_Padi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Padi",
+      "has_synced": true,
+      "path": "select/15_Begitu_Indah_Padi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Padi",
+      "has_synced": true,
+      "path": "select/16_Begitu_Indah_Padi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Begitu Indah",
+      "artist": "Meriam Bellina",
+      "has_synced": false,
+      "path": "select/17_Begitu_Indah_Meriam_Bellina.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Begitu Indah",
+      "artist": "Padi",
+      "has_synced": false,
+      "path": "select/pl_01_Begitu_Indah_Padi.txt"
+    }
+  ]
+}
